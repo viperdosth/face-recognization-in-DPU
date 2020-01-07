@@ -20,6 +20,8 @@ running with command  python train.py to get the model
 use predict.py to validation
 use frozen.sh, quan.sh and dnnc.sh to generate elf file(in src)
 
+It is a software part of the whole project https://github.com/neu-ece-eece4534-sp19/f19-project-yu-deng-li.
+
 
 ## Dependencies
 
